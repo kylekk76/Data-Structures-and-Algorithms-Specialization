@@ -1,3 +1,4 @@
+# This will not work for the assignament as you need some more simple, but i thought was better in this way
 
 def inputmain():
     loop=True
